@@ -162,7 +162,7 @@ Campus-Recruitment-System/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Campus-Recruitment-System.git
+git clone https://github.com/ahsansabeeh910/Campus-Recruitment-System.git
 ```
 
 ## Navigate to Project
